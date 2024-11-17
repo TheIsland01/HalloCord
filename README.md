@@ -6,6 +6,6 @@ Inspired by Dartn's Alphacord opensource Repository for Discord to Mindustry cha
 
 
 # Credits:
-dartn (discord)
-balam314 (discord)
-thefluffycloud (discord)
+ - dartn (discord)
+ - balam314 (discord)
+ - thefluffycloud (discord)
